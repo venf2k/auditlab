@@ -1,5 +1,5 @@
 # auditlab
-Unsuoervised learning with SOFM
+Unsupervised learning with SOFM
 
 References:
 https://machinelearningnepal.com/2018/01/17/online-som/
